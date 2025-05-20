@@ -1,12 +1,4 @@
-/* 
-* Portfólio de DJ - Estilo CSS Moderno
-* Desenvolvido para site de DJ sem frameworks
-* Contém: Header, Hero, Sobre, Música, Eventos, Galeria, Contato e Footer
-* Design responsivo para mobile e desktop
-* Paleta de cores com gradientes e efeitos modernos
-*/
-
-/* Reset e Estilos Gerais */
+/* Reset Geral */
 * {
     margin: 0;
     padding: 0;
@@ -168,7 +160,7 @@ nav ul li a:hover::after {
     transition: 0.4s;
 }
 
-/* Hero Section */
+/*Home*/
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(10, 10, 21, 0.7), rgba(10, 10, 21, 0.7)), url('/api/placeholder/1920/1080') center/cover no-repeat;
@@ -266,7 +258,7 @@ nav ul li a:hover::after {
     }
 }
 
-/* Sobre Section */
+/* Sobre */
 .about {
     position: relative;
     overflow: hidden;
@@ -340,7 +332,7 @@ nav ul li a:hover::after {
     opacity: 0.8;
 }
 
-/* Music Section */
+/* Musica */
 .music {
     background: linear-gradient(rgba(10, 10, 21, 0.95), rgba(10, 10, 21, 0.95)), url('/api/placeholder/1920/1080') center/cover fixed;
 }
@@ -407,7 +399,7 @@ nav ul li a:hover::after {
     margin-top: 15px;
 }
 
-/* Events Section */
+/* Eventos */
 .events {
     position: relative;
 }
@@ -500,7 +492,7 @@ nav ul li a:hover::after {
     padding: 10px 20px;
 }
 
-/* Gallery Section */
+/* Galeria*/
 .gallery {
     background: linear-gradient(rgba(10, 10, 21, 0.9), rgba(10, 10, 21, 0.9)), url('/api/placeholder/1920/1080') center/cover fixed;
 }
@@ -559,7 +551,7 @@ nav ul li a:hover::after {
     transform: translateY(0);
 }
 
-/* Contact Section */
+/* Contato */
 .contact {
     position: relative;
 }
@@ -719,7 +711,7 @@ footer {
     margin-top: 30px;
 }
 
-/* Responsive Design */
+/* Responsive Design GPT 100% */
 @media (max-width: 1024px) {
     .about-content {
         flex-direction: column;
