@@ -238,6 +238,7 @@ nav ul li a:hover::after {
     transform: translateY(-5px);
 }
 
+/* Scroll pulando */
 .scroll-indicator {
     position: absolute;
     bottom: 40px;
