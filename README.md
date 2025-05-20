@@ -10,10 +10,10 @@ Google Fonts - Tipografia personalizada
 
 📂 Estrutura de Arquivos
 
-├── index.html            # Página principal
-├── style.css             # Estilos personalizados
-├── /imagens              # Imagens usadas (música, galeria, perfil)
-├── /audios               # Arquivos de música (MP3)
+├── index.html            
+├── style.css            
+├── /imagens              
+├── /audios               
 
 📌 Seções do Site
 
