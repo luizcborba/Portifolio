@@ -12,8 +12,8 @@ Google Fonts - Tipografia personalizada
 
 ├── index.html            
 ├── style.css            
-├── /imagens              
-├── /audios               
+├── /img              
+├── /sound               
 
 📌 Seções do Site
 
